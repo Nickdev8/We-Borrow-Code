@@ -1,6 +1,6 @@
 # We-Borrow-Code
 #### We Permanently Borrow Code!
-![image](images/render.png)
+![image](.assets/render.png)
 
 ### Inspiration
 I wanted a macropad for funsies and "barrowing" other peoples code.
@@ -27,12 +27,12 @@ Others:
 
 Schematic            |  PCB         |   Case
 :-------------------------:|:-------------------------:|:-------------------------:|
-![image](images/schematic.png)    |  ![image](images/pcb.png)  | ![image](images/fusion.png)
+![image](.assets/schematic.png)    |  ![image](.assets/pcb.png)  | ![image](.assets/fusion.png)
 
 
 ### I made this at midnight on a zoom with Samhith pola & Magical Paperclip
-![image](images/zoom.png)
+![image](.assets/zoom.png)
 
 
 pcbway showed my the geibers were good
-![image](images/geibers.png)
+![image](.assets/geibers.png)
