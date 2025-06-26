@@ -21,8 +21,8 @@ BOM:
 
 Others:
 - KMK Firmware
-- Top.step 
-- Bottom.step
+- topcase.3mf (im 3d printing it myself)
+- casebottom.3mf (im 3d printing it myself)
 
 Schematic            |  PCB         |   Case
 :-------------------------:|:-------------------------:|:-------------------------:|
@@ -31,3 +31,7 @@ Schematic            |  PCB         |   Case
 
 ### I made this at midnight on a zoom with Samhith pola & Magical Paperclip
 ![image](images/zoom.png)
+
+
+pcbway showed my the geibers were good
+![image](images/geibers.png)
