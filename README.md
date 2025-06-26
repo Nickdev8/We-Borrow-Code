@@ -26,8 +26,8 @@ Others:
 
 Schematic            |  PCB         |   Case
 :-------------------------:|:-------------------------:|:-------------------------:|
-![image](Images/schematic.png)    |  ![image](Images/pcb.png)  | ![image](Images/fusion.png)
+![image](images/schematic.png)    |  ![image](images/pcb.png)  | ![image](images/fusion.png)
 
 
 ### I made this at midnight on a zoom with Samhith pola & Magical Paperclip
-![image](/Images/zoom.png)
+![image](images/zoom.png)
