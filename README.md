@@ -5,6 +5,7 @@
 ### Inspiration
 I wanted a macropad for funsies and "barrowing" other peoples code.
 I was thinking about makeing a micropad with just Tab. Since with vibe coding, thats all you need these days
+Now i have Ctrl, C, V, Tab, "open cursor" for buttons
 
 ### Challenges
 
@@ -13,12 +14,11 @@ This was my second time using Fusion 360! The first time i wanted to experiment 
 ### Specifications
 
 BOM: 
-- 3x Cherry MX Switches (blue)
+- 6x Cherry MX Switches (blue)
 - 1x XIAO RP2040
-- 3x Blank DSA Keycaps (Black if posible)
+- 6x Blank DSA Keycaps (Black if posible)
 - 4x M3x16mm Bolt
 - 4x M3 Heatset
-- 16x 1N4148 Diodes
 
 Others:
 - KMK Firmware
